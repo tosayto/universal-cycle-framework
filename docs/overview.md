@@ -1,5 +1,23 @@
 # Universal Cycle Framework — Overview
 
+          [ Request ]
+              ↓
+        [ Acquisition ]
+              ↓
+          [ Holding ]
+              ↓
+          [ Center ]
+              ↓
+       [ Progression ]
+              ↓
+       [ Registration ]
+              ↓
+        [ Emergence ]
+              ↓
+          [ Return ]
+              ↺
+          (back to Request)
+
 The Universal Cycle Framework (UCF) is a minimal, mechanical model that describes
 how any cyclic process operates. It is domain‑agnostic and applies to cognition,
 AI pipelines, organizational workflows, language structures, and system design.
